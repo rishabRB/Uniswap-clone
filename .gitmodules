@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = ./client
+[submodule "smart_contract"]
+	path = smart_contract
+	url = ./smart_contract
