@@ -13,7 +13,7 @@ I had made a clone of Uniswap website using the following tech stacks ➡️
 
 ➡️ Database :- Sanity
 
-📌 Here is a deployed 🔗link](https://uniswap-clone-rishabrb.vercel.app/) of the clone, feel free to check it out 
+📌 Here is a deployed [🔗link](https://uniswap-clone-rishabrb.vercel.app/) of the clone, feel free to check it out 
   all you need is to download a crypto wallet (recommended [Metamask](https://metamask.io/download/))
   
  > If you like to make some change and upgrade clone this respository and do the following
